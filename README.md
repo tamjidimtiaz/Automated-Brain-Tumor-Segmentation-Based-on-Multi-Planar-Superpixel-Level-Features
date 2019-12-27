@@ -1,5 +1,5 @@
 
-The database implemented for this study is MICCAI BRATS-2015 dataset. All of the images are undergoing MRI bias correction and Histogram Matching Algorithm by 3D slicer software. Each of the code has sufficient comments regarding on the process. The code should be executed in the order of their appearances. This work is under the review of a journal so informations are not given explicitly. 
+The database implemented for this study is MICCAI BRATS-2015 dataset. All of the images are undergoing MRI bias correction and Histogram Matching Algorithm by 3D slicer software. Each of the code has sufficient comments regarding on the process. The code should be executed in the order of their appearances. For a detailed view : https://ieeexplore.ieee.org/document/8939438
 
 The whole process is carried out on Intel CoreTM i7-8700 3.2 GHz (x12) processor, 8 GB of RAM.
 
