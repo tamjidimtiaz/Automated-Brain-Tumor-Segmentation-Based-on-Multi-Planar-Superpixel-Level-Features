@@ -1,6 +1,6 @@
 
 The database implemented for this study is MICCAI BRATS-2015 dataset. All of the images are undergoing MRI bias correction and Histogram Matching Algorithm by 3D slicer software. Each of the code has sufficient comments regarding on the process. The code should be executed in the order of their appearances. For a detailed view please see :
-Imtiaz T, Rifat S, Fattah SA, Wahid KA. Automated Brain Tumor Segmentation Based on Multi-Planar Superpixel Level Features Extracted from 3D MR Images. IEEE Access. 2019 Dec 23.
+Imtiaz T, Rifat S, Fattah SA, Wahid KA. Automated Brain Tumor Segmentation Based on Multi-Planar Superpixel Level Features Extracted from 3D MR Images. IEEE Access. 2019 Dec 23 (https://ieeexplore.ieee.org/abstract/document/8939438/).
 
 The whole process is carried out on Intel CoreTM i7-8700 3.2 GHz (x12) processor, 8 GB of RAM.
 
