@@ -1,5 +1,6 @@
 
 The database implemented for this study is MICCAI BRATS-2015 dataset. All of the images are undergoing MRI bias correction and Histogram Matching Algorithm by 3D slicer software. Each of the code has sufficient comments regarding on the process. The code should be executed in the order of their appearances. For a detailed view please see :
+
 Imtiaz T, Rifat S, Fattah SA, Wahid KA. Automated Brain Tumor Segmentation Based on Multi-Planar Superpixel Level Features Extracted from 3D MR Images. IEEE Access. 2019 Dec 23 (https://ieeexplore.ieee.org/abstract/document/8939438/).
 
 The whole process is carried out on Intel CoreTM i7-8700 3.2 GHz (x12) processor, 8 GB of RAM.
@@ -13,4 +14,6 @@ ERT Code Ref.: 1.https://www.mathworks.com/matlabcentral/fileexchange/47372-rtao
 gabor orientation selection are implemented based on the algorithm of the following paper:
 "W.Y. Han, J.C. Lee, "Palm vein recognition using adaptive gabor filter", Expert Systems with Applications, vol. 39, no. 18, pp. 13225-13234, 2012.
 
+
+Dataset:
 To get the data used for this project click the link : https://drive.google.com/drive/folders/1ud9RK4_A2Za2WSfxhKCA4GQXuo9A5QIt?usp=sharing
